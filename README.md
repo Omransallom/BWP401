@@ -1,2 +1,2 @@
-# BWP401
+# Electronic magazine
 new website
